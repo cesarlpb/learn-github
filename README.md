@@ -1,11 +1,11 @@
 # Libro de Github
 
 ## Capítulo 01: Cómo instalar Git
-
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1fmhD2kyogkWRA65DvBXHsPaAjLjvP2Uc8iGWRfJYRw&s
 Para instalar Git, primero necesitas descargar el instalador adecuado para tu sistema operativo desde el sitio web oficial de Git. Una vez descargado, sigue las instrucciones proporcionadas por el instalador para completar el proceso de instalación. Durante la instalación, asegúrate de seleccionar las opciones que se ajusten a tus preferencias, como la ubicación de instalación y las características adicionales que desees. Una vez completada la instalación, puedes verificar si Git se ha instalado correctamente abriendo una terminal o línea de comandos y escribiendo `git --version`. Si Git se ha instalado correctamente, debería mostrar la versión instalada del software.
 
 ## Nuevos cambios de PR:
-
+ Esto es la primera parte de un libro de Github.
 Repositorio para aprender Github. Crear `fork` para contribuir.
 
 <img width="146" alt="image" src="https://github.com/cesarlpb/learn-github/assets/164490009/1c66c81e-4a62-4f31-aa64-39c287afd0ce">
