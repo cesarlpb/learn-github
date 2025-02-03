@@ -89,27 +89,18 @@ Aprender a clonar un repositorio remoto en tu máquina local.
 
    1.1 ```bash
    git clone [cv_backend](https://github.com/cdryampi/curriculum-backend.git)
-
-   ```
-
    ```
 
 2. Accedemos al directorio del repositorio clonado.
 
    2.1 ```bash
    cd curriculum-backend
-
-   ```
-
    ```
 
 3. Listamos los archivos del repositorio.
 
    3.1 ```bash
    dir
-
-   ```
-
    ```
 
 4. Resultado de la clonación.
